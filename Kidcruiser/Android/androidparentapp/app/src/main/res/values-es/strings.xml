@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rastreador de autobuses</string>
+    <string name="splash_text">APP PARA PADRES</string>
+    <string name="enter_your_mobile_number">Ingrese su numero celular</string>
+    <string name="phone">Teléfono</string>
+
+
+    <string name="nav_header_desc">Encabezado de navegación</string>
+
+    <string name="menu_home">Encuentra el autobús escolar</string>
+    <string name="menu_settings">Configuraciones</string>
+    <string name="menu_history">Registro del conductor</string>
+    <string name="menu_callDriver">Llamar al conductor</string>
+    <string name="menu_shareApp">Compartir</string>
+    <string name="menu_logout">Cerrar sesión</string>
+    <string name="menu_about">Acerca de</string>
+
+
+    <string name="app_version">versión 1.3</string>
+    <string name="credits">Créditos</string>
+    <string name="enter_the_6_digit_code_sent_to_you_at">Ingrese el código de 6 dígitos que se le envió a</string>
+    <string name="resend_code">Reenviar codigo</string>
+    <string name="next">próximo</string>
+    <string name="no_driver_alert">Sin conductor</string>
+    <string name="parent_not_assigned_to_bus_driver_alert">No está asignado a un conductor de autobús. Póngase en contacto con su escuela para asignarle un conductor</string>
+    <string name="no_tracking_alert">Sin seguimiento</string>
+    <string name="driver_not_use_app_yet">Estás asignado a un conductor de autobús, pero parece que el conductor aún no usa la aplicación.</string>
+    <string name="alert">Alerta !</string>
+    <string name="not_assigned_to_driver_yet">No hay conductor asignado. Póngase en contacto con su escuela para asignarle un conductor</string>
+    <string name="turn_on_gps">Por favor encienda el GPS</string>
+    <string name="grant_access_to_location_access">Vaya a Configuración y otorgue acceso a la ubicación de esta aplicación para configurar su ubicación de inicio.</string>
+    <string name="unexpected_error">Error inesperado. Por favor contáctenos si el error persiste.</string>
+    <string name="success">Éxito</string>
+    <string name="pickup_dropoff_ok">Su ubicación de recogida / devolución se ha configurado correctamente</string>
+    <string name="tel_number_not_exist">Este número de teléfono no existe. Por favor, póngase en contacto con su escuela para agregarlo.</string>
+    <string name="error_in_tel">Error en el número de teléfono ingresado.</string>
+    <string name="unable_to_connect_server">No es posible conectarse al servidor. Por favor, inténtelo de nuevo más tarde</string>
+    <string name="verification_code_not_correct">El código de verificación no es correcto. Inténtalo de nuevo.</string>
+    <string name="error_in_verification_code">Error en el código de verificación ingresado.</string>
+    <string name="are_you_sure_call_driver">¿Estás seguro de que quieres llamar al conductor?</string>
+    <string name="call_driver">Conductor de llamadas</string>
+    <string name="set_pick_drop_setting">Establecer ubicación de recogida y devolución</string>
+    <string name="set_pick_drop_setting_summary">Establecer ubicación para recibir notificaciones</string>
+    <string name="notification_settings">Configuracion de notificaciones</string>
+    <string name="arrived_at_school_notification">Cuando el autobús llegó a la escuela</string>
+    <string name="left_school_notification">Cuando el autobús dejó la escuela</string>
+    <string name="arrived_at_home_notification">Cuando el autobús llegó a su casa</string>
+    <string name="left_home_notification">Cuando el autobús salió de tu casa</string>
+    <string name="zone_settings">Cuando el autobús está cerca de mi casa</string>
+    <string name="settings_title">Configuración de ubicación</string>
+    <string name="are_you_sure_set_location">Está seguro de que desea establecer la ubicación actual como su ubicación de recogida / devolución?</string>
+    <string name="set_pick_drop_location_title">Establecer lugar de recogida / devolución</string>
+    <string name="share_body">I want to share with you this fantastic school bus tracking app</string>
+
+    <string name="checked_in_string">se registró en el autobús</string>
+    <string name="checked_out_string">salió del autobús</string>
+    <string name="sms_quota_exceeded">SMS quota has been exceeded</string>
+    <string name="wallet">Wallet</string>
+</resources>

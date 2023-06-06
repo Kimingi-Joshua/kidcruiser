@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="splash_text">APP PAI</string>
+    <string name="enter_your_mobile_number">Digite seu número de celular</string>
+    <string name="phone">telefone</string>
+
+
+    <string name="nav_header_desc">Cabeçalho de navegação</string>
+
+    <string name="menu_home">Encontre ônibus escolar</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_history">Registro do driver</string>
+    <string name="menu_callDriver">Driver de chamada</string>
+    <string name="menu_shareApp">Compartilhar</string>
+    <string name="menu_logout">Sair</string>
+    <string name="menu_about">Sobre</string>
+
+
+    <string name="app_version">versão 1.3</string>
+    <string name="credits">Créditos</string>
+    <string name="enter_the_6_digit_code_sent_to_you_at">Digite o código de 6 dígitos enviado a você em</string>
+    <string name="resend_code">Reenviar código</string>
+    <string name="next">Próximo</string>
+    <string name="no_driver_alert">Nenhum motorista</string>
+    <string name="parent_not_assigned_to_bus_driver_alert">Você não está atribuído a um motorista de ônibus. Entre em contato com sua escola para atribuir um motorista para você</string>
+    <string name="no_tracking_alert">Sem rastreamento</string>
+    <string name="driver_not_use_app_yet">Você está atribuído a um motorista de ônibus, mas parece que o motorista ainda não usa o aplicativo.</string>
+    <string name="alert">Alerta !</string>
+    <string name="not_assigned_to_driver_yet">Nenhum driver atribuído. Entre em contato com sua escola para atribuir um motorista para você</string>
+    <string name="turn_on_gps">Por favor, ligue o GPS</string>
+    <string name="grant_access_to_location_access">Vá para Configurações e conceda acesso ao local para este aplicativo para definir seu local de residência.</string>
+    <string name="unexpected_error">Erro inesperado. Entre em contato conosco se o erro persistir.</string>
+    <string name="success">Sucesso</string>
+    <string name="pickup_dropoff_ok">Seu local de retirada / entrega é definido com sucesso</string>
+    <string name="tel_number_not_exist">Este número de telefone não existe. Entre em contato com sua escola para adicioná-lo.</string>
+    <string name="error_in_tel">Erro no número de telefone digitado.</string>
+    <string name="unable_to_connect_server">Não foi possível conectar ao servidor. Por favor, tente novamente mais tarde</string>
+    <string name="verification_code_not_correct">O código de verificação não está correto. Por favor, tente novamente.</string>
+    <string name="error_in_verification_code">Erro no código de verificação inserido.</string>
+    <string name="are_you_sure_call_driver">Tem certeza de que deseja ligar para o motorista?</string>
+    <string name="call_driver">Calling Driver</string>
+    <string name="set_pick_drop_setting">Definir local de entrega da coleta</string>
+    <string name="set_pick_drop_setting_summary">Definir local para receber notificações</string>
+    <string name="notification_settings">Configurações de notificações</string>
+    <string name="arrived_at_school_notification">Quando o ônibus chegou na escola</string>
+    <string name="left_school_notification">Quando o ônibus saiu da escola</string>
+    <string name="arrived_at_home_notification">Quando o ônibus chegou em sua casa</string>
+    <string name="left_home_notification">Quando o ônibus saiu de casa</string>
+    <string name="zone_settings">Quando o ônibus está perto de minha casa</string>
+    <string name="settings_title">Configuração de local</string>
+    <string name="are_you_sure_set_location">Tem certeza de que deseja definir o local atual como seu local de retirada / entrega?</string>
+    <string name="set_pick_drop_location_title">Definir local de retirada / entrega</string>
+    <string name="share_body">I want to share with you this fantastic school bus tracking app</string>
+
+    <string name="checked_in_string">checked in the bus</string>
+    <string name="checked_out_string">saiu do ônibus</string>
+    <string name="sms_quota_exceeded">SMS quota has been exceeded</string>
+    <string name="wallet">Wallet</string>
+
+</resources>

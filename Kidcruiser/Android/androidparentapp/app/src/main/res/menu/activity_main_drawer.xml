@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/location"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_callDriver"
+            android:icon="@drawable/phone"
+            android:title="@string/menu_callDriver" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/settings"
+            android:title="@string/menu_settings" />
+
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/driver_list"
+            android:title="@string/menu_history" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/wallet"
+            android:title="@string/wallet" />
+        <item
+            android:id="@+id/nav_childLog"
+            android:icon="@drawable/child_list"
+            android:title="@string/menu_childLog" />
+
+        <item
+            android:id="@+id/nav_shareApp"
+            android:icon="@drawable/share"
+            android:title="@string/menu_shareApp" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="@string/menu_about" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/logout"
+            android:title="@string/menu_logout" />
+    </group>
+
+</menu>

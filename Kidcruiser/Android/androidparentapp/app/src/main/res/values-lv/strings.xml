@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bus Tracker</string>
+    <string name="splash_text">Vecāku lietotne</string>
+    <string name="enter_your_mobile_number">Ievadiet savu mobilā tālruņa numuru</string>
+    <string name="phone">Tālr</string>
+
+
+    <string name="nav_header_desc">Navigācijas galvene</string>
+
+    <string name="menu_home">Atrodiet skolas autobusu</string>
+    <string name="menu_settings">Iestatījumi</string>
+    <string name="menu_history">Vadītāja žurnāls</string>
+    <string name="menu_callDriver">Zvaniet autovadītājam</string>
+    <string name="menu_shareApp">Dalies</string>
+    <string name="menu_logout">Izlogoties</string>
+    <string name="menu_about">Par</string>
+
+
+    <string name="app_version">versija 1.3</string>
+    <string name="credits">Kredīti</string>
+    <string name="enter_the_6_digit_code_sent_to_you_at">Ievadiet 6 ciparu kodu, kas jums nosūtīts pa tālruni</string>
+    <string name="resend_code">Nosūtiet kodu vēlreiz</string>
+    <string name="next">Nākamais</string>
+    <string name="no_driver_alert">Nav šofera</string>
+    <string name="parent_not_assigned_to_bus_driver_alert">Jūs neesat norīkots par autobusa vadītāju. Lūdzu, sazinieties ar savu skolu, lai norādītu jums autovadītāju</string>
+    <string name="no_tracking_alert">Nav izsekošanas</string>
+    <string name="driver_not_use_app_yet">Jūs esat norīkots par autobusa vadītāju, bet šķiet, ka vadītājs vēl neizmanto lietotni.</string>
+    <string name="alert">Brīdinājums!</string>
+    <string name="not_assigned_to_driver_yet">Nav piešķirts draiveris. Lūdzu, sazinieties ar savu skolu, lai norādītu jums autovadītāju</string>
+    <string name="turn_on_gps">Lūdzu, ieslēdziet GPS</string>
+    <string name="grant_access_to_location_access">Lai iestatītu mājas atrašanās vietu, lūdzu, dodieties uz sadaļu Iestatījumi un šai lietotnei piešķiriet piekļuvi atrašanās vietai.</string>
+    <string name="unexpected_error">Negaidīta kļūda. Lūdzu, sazinieties ar mums, ja kļūda joprojām pastāv.</string>
+    <string name="success">Panākumi</string>
+    <string name="pickup_dropoff_ok">Jūsu saņemšanas / nodošanas vieta ir veiksmīgi iestatīta</string>
+    <string name="tel_number_not_exist">Šis tālruņa numurs neeksistē. Lūdzu, sazinieties ar savu skolu, lai to pievienotu.</string>
+    <string name="error_in_tel">Kļūda ievadītajā tālruņa numurā.</string>
+    <string name="unable_to_connect_server">Nevar izveidot savienojumu ar serveri. Lūdzu, pamēģiniet vēlreiz vēlāk</string>
+    <string name="verification_code_not_correct">Pārbaudes kods nav pareizs. Lūdzu mēģiniet vēlreiz.</string>
+    <string name="error_in_verification_code">Kļūda ievadītajā verifikācijas kodā.</string>
+    <string name="are_you_sure_call_driver">Vai tiešām vēlaties piezvanīt autovadītājam?</string>
+    <string name="call_driver">Zvana autovadītājs</string>
+    <string name="set_pick_drop_setting">Set Pickup Drop-off Location</string>
+    <string name="set_pick_drop_setting_summary">Iestatiet Pickup Drop-off Location</string>
+    <string name="notification_settings">Paziņojumu iestatījumi</string>
+    <string name="arrived_at_school_notification">Kad skolā ieradās autobuss</string>
+    <string name="left_school_notification">Kad autobusu pa kreisi skola</string>
+    <string name="arrived_at_home_notification">Kad autobuss ieradās jūsu mājās</string>
+    <string name="left_home_notification">Kad autobuss atstāja jūsu mājas</string>
+    <string name="zone_settings">Kad autobuss atrodas netālu no manām mājām</string>
+    <string name="settings_title">Vietas iestatīšana</string>
+    <string name="are_you_sure_set_location">Vai tiešām vēlaties iestatīt pašreizējo atrašanās vietu kā savu saņemšanas / nolaišanas vietu?</string>
+    <string name="set_pick_drop_location_title">Iestatīšanas / nodošanas vietas iestatīšana</string>
+    <string name="share_body">I want to share with you this fantastic school bus tracking app</string>
+    <string name="sms_quota_exceeded">SMS quota has been exceeded</string>
+    <string name="wallet">Wallet</string>
+</resources>

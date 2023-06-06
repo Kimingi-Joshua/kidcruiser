@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Автобусный трекер</string>
+    <string name="splash_text">РОДИТЕЛЬСКОЕ ПРИЛОЖЕНИЕ</string>
+    <string name="enter_your_mobile_number">введите свой номер мобильного</string>
+    <string name="phone">Телефон</string>
+
+
+    <string name="nav_header_desc">Заголовок навигации</string>
+
+    <string name="menu_home">Найти школьный автобус</string>
+    <string name="menu_settings">настройки</string>
+    <string name="menu_history">Журнал драйверов</string>
+    <string name="menu_callDriver">Вызов водителя</string>
+    <string name="menu_shareApp">Поделиться</string>
+    <string name="menu_logout">Выйти</string>
+    <string name="menu_about">Около</string>
+
+
+    <string name="app_version">версия 1.3</string>
+    <string name="credits">кредиты</string>
+    <string name="enter_the_6_digit_code_sent_to_you_at">Введите 6-значный код, отправленный вам по адресу</string>
+    <string name="resend_code">Отправить код еще раз</string>
+    <string name="next">следующий</string>
+    <string name="no_driver_alert">Нет водителя</string>
+    <string name="parent_not_assigned_to_bus_driver_alert">Вы не назначены водителю автобуса. Пожалуйста, свяжитесь с вашей школой, чтобы назначить водителя для вас</string>
+    <string name="no_tracking_alert">Нет отслеживания</string>
+    <string name="driver_not_use_app_yet">Вы назначены водителю автобуса, но, кажется, водитель еще не использует приложение.</string>
+    <string name="alert">Оповещение!</string>
+    <string name="not_assigned_to_driver_yet">Нет назначенного драйвера. Пожалуйста, свяжитесь с вашей школой, чтобы назначить водителя для вас</string>
+    <string name="turn_on_gps">Пожалуйста, включите GPS</string>
+    <string name="grant_access_to_location_access">Пожалуйста, перейдите в Настройки и предоставьте доступ к местоположению для этого приложения, чтобы установить свое домашнее местоположение.</string>
+    <string name="unexpected_error">Неожиданная ошибка. Пожалуйста, свяжитесь с нами, если ошибка не устранена.</string>
+    <string name="success">успех</string>
+    <string name="pickup_dropoff_ok">Ваше место посадки / высадки установлено успешно</string>
+    <string name="tel_number_not_exist">Этот номер телефона не существует. Пожалуйста, свяжитесь с вашей школой, чтобы добавить его.</string>
+    <string name="error_in_tel">Ошибка в введенном номере телефона.</string>
+    <string name="unable_to_connect_server">Невозможно подключиться к серверу. Пожалуйста, попробуйте позже</string>
+    <string name="verification_code_not_correct">Код подтверждения неверен. Пожалуйста, попробуйте еще раз.</string>
+    <string name="error_in_verification_code">Ошибка во введенном коде подтверждения.</string>
+    <string name="are_you_sure_call_driver">Вы уверены, что хотите позвонить водителю?</string>
+    <string name="call_driver">Вызов водителя</string>
+    <string name="set_pick_drop_setting">Установить место выдачи пикапа</string>
+    <string name="set_pick_drop_setting_summary">Установить место для получения уведомлений</string>
+    <string name="notification_settings">Настройки уведомлений</string>
+    <string name="arrived_at_school_notification">Когда автобус прибыл в школу</string>
+    <string name="left_school_notification">Когда автобус покинул школу</string>
+    <string name="arrived_at_home_notification">Когда автобус прибыл в ваш дом</string>
+    <string name="left_home_notification">Когда автобус покинул ваш дом</string>
+    <string name="zone_settings">Когда автобус возле моего дома</string>
+    <string name="settings_title">Настройка местоположения</string>
+    <string name="are_you_sure_set_location">Вы уверены, что хотите установить текущее местоположение в качестве местоположения посадки / высадки?</string>
+    <string name="set_pick_drop_location_title">Установить место посадки / высадки</string>
+    <string name="share_body">I want to share with you this fantastic school bus tracking app</string>
+
+
+    <string name="checked_in_string">зарегистрировал автобус</string>
+    <string name="checked_out_string">выписался из автобуса</string>
+    <string name="sms_quota_exceeded">SMS quota has been exceeded</string>
+    <string name="wallet">Wallet</string>
+
+</resources>

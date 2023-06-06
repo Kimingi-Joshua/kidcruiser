@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads:17.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2b7b44f276af4c7a19d22626b9991c5d/transformed/jetified-play-services-ads-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b7b44f276af4c7a19d22626b9991c5d/transformed/jetified-play-services-ads-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2b7b44f276af4c7a19d22626b9991c5d/transformed/jetified-play-services-ads-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1d0a74f41a753028cf84dbfe8c8d3beb/transformed/jetified-play-services-ads-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d0a74f41a753028cf84dbfe8c8d3beb/transformed/jetified-play-services-ads-17.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d0a74f41a753028cf84dbfe8c8d3beb/transformed/jetified-play-services-ads-17.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2beddad28bca6cae9739a107ebebeff9/transformed/jetified-play-services-ads-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2beddad28bca6cae9739a107ebebeff9/transformed/jetified-play-services-ads-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2beddad28bca6cae9739a107ebebeff9/transformed/jetified-play-services-ads-17.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f6f1efd3d528e3cc8c7a7bab8a1519a0/transformed/jetified-play-services-ads-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6f1efd3d528e3cc8c7a7bab8a1519a0/transformed/jetified-play-services-ads-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f6f1efd3d528e3cc8c7a7bab8a1519a0/transformed/jetified-play-services-ads-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

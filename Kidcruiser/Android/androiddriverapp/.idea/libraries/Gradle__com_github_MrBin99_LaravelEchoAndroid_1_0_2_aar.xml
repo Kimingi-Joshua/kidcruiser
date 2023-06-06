@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.MrBin99:LaravelEchoAndroid:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/297f6e42659938e5f4a9c362a9330ed0/transformed/jetified-LaravelEchoAndroid-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/297f6e42659938e5f4a9c362a9330ed0/transformed/jetified-LaravelEchoAndroid-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/297f6e42659938e5f4a9c362a9330ed0/transformed/jetified-LaravelEchoAndroid-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MrBin99/LaravelEchoAndroid/1.0.2/f3f2d867536350384eebff164af43d1403844a24/LaravelEchoAndroid-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.MrBin99/LaravelEchoAndroid/1.0.2/3794fbcdf3bbd437481462de9d08aa272ded6e5c/LaravelEchoAndroid-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

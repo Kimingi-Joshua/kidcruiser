@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.159375" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_child_list.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/fragment_child_list_header.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/fragment_child_list_item.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/fragment_enter_phone_number.xml" value="0.3265625" />
+        <entry key="app/src/main/res/layout/fragment_googlemaps_map.xml" value="0.3265625" />
+        <entry key="app/src/main/res/layout/fragment_mabbox_map.xml" value="0.3265625" />
+        <entry key="app/src/main/res/layout/fragment_map.xml" value="0.16510416666666666" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_time_picker.xml" value="0.13645833333333332" />
+        <entry key="app/src/main/res/menu/menu_tracking_fragment.xml" value="0.13645833333333332" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

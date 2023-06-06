@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mapbox.mapboxsdk:mapbox-sdk-turf:6.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-sdk-turf/6.8.0/ab19a4cd746d89bb6ec01bd5e6cd7190f2db3558/mapbox-sdk-turf-6.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-sdk-turf/6.8.0/9028372027ed607c91d3adea65cc848dfdb844cf/mapbox-sdk-turf-6.8.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mapbox.mapboxsdk/mapbox-sdk-turf/6.8.0/cc68cf586bf27ae85e91fb61d67f73b9d62d1bf7/mapbox-sdk-turf-6.8.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
